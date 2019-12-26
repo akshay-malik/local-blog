@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -96,8 +96,8 @@ h3 {
   font-size: 1.25rem;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
-  font-size: 1rem;
+  margin-top: 0.8rem;
+  font-size: 0.8rem;
 }
 
 /* Body text */
@@ -242,6 +242,16 @@ tbody tr:nth-child(odd) th {
 .lead_s {
   font-size: 1rem;
   font-weight: 100;
+  margin:0;
+  
+}
+
+.lead_xs {
+  font-size: 0.8rem;
+  font-weight: 100;
+  font-style: italic;
+  margin:0;
+  
 }
 
 /*
@@ -269,7 +279,7 @@ tbody tr:nth-child(odd) th {
   max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
-  margin-left:  auto;
+  margin-left:  0;
   margin-right: auto;
 }
 
@@ -311,6 +321,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  display:block;
 }
 
 /* Blog post or page title */
@@ -318,7 +329,9 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #666;
-  font-weight:300;
+  font-weight:400;
+  
+  
 }
 .page-title,
 .post-title {
@@ -327,9 +340,8 @@ tbody tr:nth-child(odd) th {
 
 /* Meta data line below post title */
 .post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
+  
+  margin-top: 4rem;
   color: #9a9a9a;
 }
 
