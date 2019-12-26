@@ -6,35 +6,44 @@
     <description>Recent content in Tags on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>mobility as a service</title>
+      <link>/tags/mobility-as-a-service/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/mobility-as-a-service/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>urban mobility</title>
+      <link>/tags/urban-mobility/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/urban-mobility/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>about this blog</title>
+      <link>/tags/about-this-blog/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/about-this-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purpose</title>
+      <link>/tags/purpose/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/tags/purpose/</guid>
       <description></description>
     </item>
     

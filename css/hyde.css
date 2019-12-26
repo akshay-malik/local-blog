@@ -97,7 +97,9 @@ body {
 
 /* Sidebar links */
 .sidebar a {
-  color: #FF6B6B;
+  color: #00A5CF;
+  font-size: 1em;
+  font-family: "courier";
 }
 
 /* About section */
@@ -211,6 +213,7 @@ a.sidebar-nav-item:focus {
   text-decoration: none;
   border-radius:0.2em;
   font-size:0.8rem;
+  font-family: "courier";
 }
 
 .tag-button-body li a {
@@ -219,5 +222,8 @@ a.sidebar-nav-item:focus {
   display: block;
 }
 
+.sidebar-tag-list-header{
+  
+}
 
 
