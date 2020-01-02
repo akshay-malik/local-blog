@@ -58,8 +58,7 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 1.5rem;
+  
   font: var(--body-font-weight) 1rem/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   color: var(--body-color);
   background-color: var(--body-bg);
@@ -73,8 +72,9 @@ body {
  */
 
 .sidebar {
-  text-align: center;
-  padding: 2rem 1rem;
+  background-color: #F4AC32;
+  text-align: left;
+  padding: 2em;
   --body-bg: #212529;
     --body-color: #6c757d;
     --body-font-weight: 300;
@@ -97,18 +97,16 @@ body {
 
 /* Sidebar links */
 .sidebar a {
-  color: #00A5CF;
+  
   font-size: 1em;
-  font-family: "courier";
+  
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #F3B700;
-  margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  color: #fff;
   font-size: 3.25rem;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 /* Sidebar nav */
@@ -150,6 +148,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
+  margin: 2rem;
   padding-top:    4rem;
   padding-bottom: 4rem;
 }
@@ -221,6 +220,11 @@ a.sidebar-nav-item:focus {
 .tag-button-body li a {
   
   color: #FFF ;
+  
+}
+
+.list-all {
+  font-family: "courier";
   
 }
 
