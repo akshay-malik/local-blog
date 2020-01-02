@@ -2,50 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on क्षणभंगुर</title>
-    <link>/post/</link>
+    <link>https://www.akshaymalik.com/local-blog/post/</link>
     <description>Recent content in Posts on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/local-blog/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Setting up a Blog</title>
-      <link>/2019/12/31/setting-up-a-blog/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/12/31/setting-up-a-blog/</guid>
-      <description> Not intented to teach others but for personal documentation. Others are free to learn tho if the documentation makes sense.
-How did I setup this blog:
- RStudio Blogdown Theme-mdo-css Changes to css name of the blog  </description>
-    </item>
     
     <item>
       <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
+      <link>https://www.akshaymalik.com/local-blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
+      <guid>https://www.akshaymalik.com/local-blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
       <description>s simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Running list of systems needed in the City</title>
-      <link>/2019/12/25/running-list-of-systems-needed-in-the-city/</link>
+      <link>https://www.akshaymalik.com/local-blog/2019/12/25/running-list-of-systems-needed-in-the-city/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/12/25/running-list-of-systems-needed-in-the-city/</guid>
+      <guid>https://www.akshaymalik.com/local-blog/2019/12/25/running-list-of-systems-needed-in-the-city/</guid>
       <description>Having worked for the City for over two years, I have had the pleasure and priveledge of working with a group of hard working and talented government employees. This time and interaction has allowed me to see that lack of resources has caused several people hours to go waste in doing tasks that should clearly be automated. This situation encouraged me to start this running list of systems that the City needs desperately.</description>
     </item>
     
     <item>
       <title>Modes vs Choices/Options</title>
-      <link>/2019/12/24/modes-or-choices/</link>
+      <link>https://www.akshaymalik.com/local-blog/2019/12/24/modes-or-choices/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/12/24/modes-or-choices/</guid>
+      <guid>https://www.akshaymalik.com/local-blog/2019/12/24/modes-or-choices/</guid>
       <description>This difference between transportation modes and choices or options described here may seem to be cosmetic at first. But if studied closely, this has implications on how transportation infrastructure gets financed, managed, delivered to users and it impact evaluated on other urban metrics such as land use. Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following factors:
 an increase in the number of travel options or choices a rise in data exchange to share availability of service for each option in real-time growing entanglement among these travel choices to form complex journeys for each user.</description>
     </item>
