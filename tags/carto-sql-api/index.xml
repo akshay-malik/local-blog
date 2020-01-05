@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carto SQL API on क्षणभंगुर</title>
+    <link>https://www.akshaymalik.com/blog/tags/carto-sql-api/</link>
+    <description>Recent content in Carto SQL API on क्षणभंगुर</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.akshaymalik.com/blog/tags/carto-sql-api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Crash Data hosted by Open Data Philly</title>
+      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
+      <description>s simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>

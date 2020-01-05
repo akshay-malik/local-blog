@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on क्षणभंगुर</title>
+    <link>https://www.akshaymalik.com/blog/categories/about/</link>
+    <description>Recent content in About on क्षणभंगुर</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="https://www.akshaymalik.com/blog/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.akshaymalik.com/blog/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/about/</guid>
+      <description>me Akshay Malik - Currently working for City of Philadelphia&#39;s OTIS (Office of Transportation, Infrastructure &amp;amp; Sustainability). Focused on making urban infrastructure safer and smarter using data and design. Huge urban policy and data nerd. Studied and practiced architecture for several years. Studied city planning and now work for a city government. Love travelling, math and coding. Family guy.
+blog This blog is a compilation of my analysis and opnions on data science, public policy, urban mobility, architecture and system design.</description>
+    </item>
+    
+  </channel>
+</rss>
