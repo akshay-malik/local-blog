@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on क्षणभंगुर</title>
-    <link>/tags/</link>
+    <link>/local-blog/tags/</link>
     <description>Recent content in Tags on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/local-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogdown</title>
-      <link>/tags/blogdown/</link>
+      <link>/local-blog/tags/blogdown/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blogdown/</guid>
+      <guid>/local-blog/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>/tags/css/</link>
+      <link>/local-blog/tags/css/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>/local-blog/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>/tags/rmarkdown/</link>
+      <link>/local-blog/tags/rmarkdown/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rmarkdown/</guid>
+      <guid>/local-blog/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rstudio</title>
-      <link>/tags/rstudio/</link>
+      <link>/local-blog/tags/rstudio/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rstudio/</guid>
+      <guid>/local-blog/tags/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carto SQL API</title>
-      <link>/tags/carto-sql-api/</link>
+      <link>/local-blog/tags/carto-sql-api/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/carto-sql-api/</guid>
+      <guid>/local-blog/tags/carto-sql-api/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>city systems</title>
-      <link>/tags/city-systems/</link>
+      <title>City Systems</title>
+      <link>/local-blog/tags/city-systems/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/city-systems/</guid>
+      <guid>/local-blog/tags/city-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crash Data</title>
-      <link>/tags/crash-data/</link>
+      <link>/local-blog/tags/crash-data/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/crash-data/</guid>
+      <guid>/local-blog/tags/crash-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Data</title>
-      <link>/tags/open-data/</link>
+      <link>/local-blog/tags/open-data/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/open-data/</guid>
+      <guid>/local-blog/tags/open-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobility as a service</title>
-      <link>/tags/mobility-as-a-service/</link>
+      <link>/local-blog/tags/mobility-as-a-service/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mobility-as-a-service/</guid>
+      <guid>/local-blog/tags/mobility-as-a-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>urban mobility</title>
-      <link>/tags/urban-mobility/</link>
+      <link>/local-blog/tags/urban-mobility/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/urban-mobility/</guid>
+      <guid>/local-blog/tags/urban-mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About this blog</title>
-      <link>/tags/about-this-blog/</link>
+      <link>/local-blog/tags/about-this-blog/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/tags/about-this-blog/</guid>
+      <guid>/local-blog/tags/about-this-blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purpose</title>
-      <link>/tags/purpose/</link>
+      <link>/local-blog/tags/purpose/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/tags/purpose/</guid>
+      <guid>/local-blog/tags/purpose/</guid>
       <description></description>
     </item>
     

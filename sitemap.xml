@@ -3,142 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/blogdown/</loc>
+    <loc>/local-blog/tags/blogdown/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/local-blog/categories/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>/local-blog/tags/css/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/data-science/</loc>
+    <loc>/local-blog/categories/data-science/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/local-blog/post/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rmarkdown/</loc>
+    <loc>/local-blog/tags/rmarkdown/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rstudio/</loc>
+    <loc>/local-blog/tags/rstudio/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/12/31/setting-up-a-blog/</loc>
+    <loc>/local-blog/2019/12/31/setting-up-a-blog/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/local-blog/tags/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/web-design/</loc>
+    <loc>/local-blog/categories/web-design/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/local-blog/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/carto-sql-api/</loc>
+    <loc>/local-blog/tags/carto-sql-api/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/city-systems/</loc>
+    <loc>/local-blog/tags/city-systems/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/crash-data/</loc>
+    <loc>/local-blog/tags/crash-data/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/open-data/</loc>
+    <loc>/local-blog/tags/open-data/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/12/27/using-crash-data-hosted-by-open-data-philly/</loc>
+    <loc>/local-blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/year/2019/</loc>
+    <loc>/local-blog/year/2019/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/city-infrastructure/</loc>
+    <loc>/local-blog/categories/city-infrastructure/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/12/25/running-list-of-systems-needed-in-the-city/</loc>
+    <loc>/local-blog/2019/12/25/running-list-of-systems-needed-in-the-city/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/year/</loc>
+    <loc>/local-blog/year/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mobility-as-a-service/</loc>
+    <loc>/local-blog/tags/mobility-as-a-service/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2019/12/24/modes-or-choices/</loc>
+    <loc>/local-blog/2019/12/24/modes-or-choices/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/urban-mobility/</loc>
+    <loc>/local-blog/categories/urban-mobility/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/urban-mobility/</loc>
+    <loc>/local-blog/tags/urban-mobility/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/about/</loc>
+    <loc>/local-blog/categories/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/local-blog/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/about-this-blog/</loc>
+    <loc>/local-blog/tags/about-this-blog/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/purpose/</loc>
+    <loc>/local-blog/tags/purpose/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
