@@ -3,112 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/carto-sql-api/</loc>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rmarkdown/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/12/31/setting-up-a-blog/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/web-design/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/carto-sql-api/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/categories/</loc>
+    <loc>/tags/city-systems/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/city-systems/</loc>
+    <loc>/tags/crash-data/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/crash-data/</loc>
+    <loc>/tags/open-data/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/categories/data-science/</loc>
+    <loc>/2019/12/27/using-crash-data-hosted-by-open-data-philly/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/open-data/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.akshaymalik.com/blog/post/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.akshaymalik.com/blog/tags/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.akshaymalik.com/blog/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.akshaymalik.com/blog/year/2019/</loc>
+    <loc>/year/2019/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/categories/city-infrastructure/</loc>
+    <loc>/categories/city-infrastructure/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/2019/12/25/running-list-of-systems-needed-in-the-city/</loc>
+    <loc>/2019/12/25/running-list-of-systems-needed-in-the-city/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/year/</loc>
+    <loc>/year/</loc>
     <lastmod>2019-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/mobility-as-a-service/</loc>
+    <loc>/tags/mobility-as-a-service/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/2019/12/24/modes-or-choices/</loc>
+    <loc>/2019/12/24/modes-or-choices/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/categories/urban-mobility/</loc>
+    <loc>/categories/urban-mobility/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/urban-mobility/</loc>
+    <loc>/tags/urban-mobility/</loc>
     <lastmod>2019-12-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/categories/about/</loc>
+    <loc>/categories/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/about-this-blog/</loc>
+    <loc>/tags/about-this-blog/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.akshaymalik.com/blog/tags/purpose/</loc>
+    <loc>/tags/purpose/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/year/</link>
+    <link>/year/</link>
     <description>Recent content in Year on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/year/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/year/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019</title>
-      <link>https://www.akshaymalik.com/blog/year/2019/</link>
+      <link>/year/2019/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/year/2019/</guid>
+      <guid>/year/2019/</guid>
       <description></description>
     </item>
     

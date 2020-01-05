@@ -2,84 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Carto SQL API</title>
-      <link>https://www.akshaymalik.com/blog/tags/carto-sql-api/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <title>blogdown</title>
+      <link>/tags/blogdown/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/carto-sql-api/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>City Systems</title>
-      <link>https://www.akshaymalik.com/blog/tags/city-systems/</link>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rmarkdown</title>
+      <link>/tags/rmarkdown/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carto SQL API</title>
+      <link>/tags/carto-sql-api/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/city-systems/</guid>
+      <guid>/tags/carto-sql-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>city systems</title>
+      <link>/tags/city-systems/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/city-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crash Data</title>
-      <link>https://www.akshaymalik.com/blog/tags/crash-data/</link>
+      <link>/tags/crash-data/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/crash-data/</guid>
+      <guid>/tags/crash-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Data</title>
-      <link>https://www.akshaymalik.com/blog/tags/open-data/</link>
+      <link>/tags/open-data/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/open-data/</guid>
+      <guid>/tags/open-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mobility as a service</title>
-      <link>https://www.akshaymalik.com/blog/tags/mobility-as-a-service/</link>
+      <link>/tags/mobility-as-a-service/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/mobility-as-a-service/</guid>
+      <guid>/tags/mobility-as-a-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>urban mobility</title>
-      <link>https://www.akshaymalik.com/blog/tags/urban-mobility/</link>
+      <link>/tags/urban-mobility/</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/urban-mobility/</guid>
+      <guid>/tags/urban-mobility/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>about this blog</title>
-      <link>https://www.akshaymalik.com/blog/tags/about-this-blog/</link>
+      <title>About this blog</title>
+      <link>/tags/about-this-blog/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/about-this-blog/</guid>
+      <guid>/tags/about-this-blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>purpose</title>
-      <link>https://www.akshaymalik.com/blog/tags/purpose/</link>
+      <title>Purpose</title>
+      <link>/tags/purpose/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/tags/purpose/</guid>
+      <guid>/tags/purpose/</guid>
       <description></description>
     </item>
     

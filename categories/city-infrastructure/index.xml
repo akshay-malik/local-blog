@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>City Infrastructure on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/categories/city-infrastructure/</link>
+    <link>/categories/city-infrastructure/</link>
     <description>Recent content in City Infrastructure on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/categories/city-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/city-infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Running list of systems needed in the City</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/25/running-list-of-systems-needed-in-the-city/</link>
+      <link>/2019/12/25/running-list-of-systems-needed-in-the-city/</link>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2019/12/25/running-list-of-systems-needed-in-the-city/</guid>
+      <guid>/2019/12/25/running-list-of-systems-needed-in-the-city/</guid>
       <description>Having worked for the City for over two years, I have had the pleasure and priveledge of working with a group of hard working and talented government employees. This time and interaction has allowed me to see that lack of resources has caused several people hours to go waste in doing tasks that should clearly be automated. This situation encouraged me to start this running list of systems that the City needs desperately.</description>
     </item>
     
